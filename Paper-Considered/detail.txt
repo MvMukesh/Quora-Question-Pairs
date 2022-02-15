@@ -7,6 +7,6 @@ This is the paper which I consider
 #########################################
 
 #############################################################################
-This source can be used if you want to more paper:
+This source can be used if you want more paper:
 https://paperswithcode.com/sota/question-answering-on-quora-question-pairs
 #############################################################################
