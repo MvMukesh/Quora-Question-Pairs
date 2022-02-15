@@ -1,7 +1,9 @@
 # Quora-Question-Pairs
 Finding Duplicate Question in Quora Original Dataset
 
-## Output Images
+<hr>
+<h3>Output Images</h3>
+
 1. `Class Distribution`
 <img alt="Class Distribution" src="https://github.com/MvMukesh/Quora-Question-Pairs/blob/main/output_img/1-class_distribution.png" />
 
@@ -31,4 +33,7 @@ Finding Duplicate Question in Quora Original Dataset
 
 10. `xgboost Confusion Matrix`
 <img alt="Class Distribution" src="https://github.com/MvMukesh/Quora-Question-Pairs/blob/main/output_img/10-xgboost_confusionMatrix.png" />
+
+These result are being used as Baseline Results <br>
+From here aim is to improve results further
 
