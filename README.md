@@ -1,6 +1,8 @@
 # Quora-Question-Pairs
 Finding Duplicate Question in Quora Original Dataset
 
+## Directory Structure
+<img alt="Class Distribution" src="https://github.com/MvMukesh/Quora-Question-Pairs/blob/main/output_img/directory_structure.png" />
 
 
 <hr>
